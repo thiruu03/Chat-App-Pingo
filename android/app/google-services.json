@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "676381894782",
+    "project_id": "pingo-70922",
+    "storage_bucket": "pingo-70922.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676381894782:android:500c8662f92ee374e7502f",
+        "android_client_info": {
+          "package_name": "com.example.pingo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM-lIdbdgC-v8uZaacirp1Rf8hLgGASlU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
